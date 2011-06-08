@@ -1,0 +1,90 @@
+/* link color */
+a {
+  color: #c01848;
+}
+a:visited {
+}
+a:hover, a:visited:hover {
+}
+
+/* main contents */
+body {
+  background: #fffdfd url(/images/rubylogo.gif) no-repeat fixed 108% 108%;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: #c01848;
+}
+h2:first-letter,
+h3:first-letter,
+h4:first-letter,
+h5:first-letter,
+h6:first-letter
+{
+  font-weight: bolder;
+  font-size: 1.3em;
+}
+.hidden { }
+.clear { }
+#page {
+}
+#header {
+  border-bottom-color: #c01848;
+}
+#site-title {
+}
+#site-title a, #site-title a:visited {
+}
+#site-title a:hover, #site-title a:hover {
+}
+#site-subtitle {
+}
+#main {
+  border-bottom-color: #c01848;
+}
+#content-wrapper {
+}
+#content {
+  border-right-color: #c01848;
+}
+#content h1 {
+}
+#content h3 a {
+  border-bottom-color: #c01848;
+}
+#content p {
+}
+#content .info {
+}
+#content .entry .info {
+}
+#content .entry {
+}
+#content .first.entry {
+  background-color: #ffffff;
+  border-left: 1px dotted #c01848;
+  border-bottom: 1px dotted #c01848;
+}
+#content .first.entry h3 {
+}
+#sidebar-wrapper {
+}
+#sidebar {
+}
+#sidebar h2 {
+  color: #000;
+  font-size: 1.4em;
+}
+#sidebar h2:first-letter {
+  color: #c01848;
+  font-weight: bolder;
+  font-size: 1.6em;
+}
+#sidebar p {
+}
+#sidebar ul {
+}
+#sidebar li {
+}
+#footer {
+}
+

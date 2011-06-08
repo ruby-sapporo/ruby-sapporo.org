@@ -1,0 +1,1255 @@
+12:03:06 <ustreamer-36769> こんにちはー
+12:04:05 <mae> $B:#F|$O%*%s%i%$%s;22C$5$;$F$$$?$@$-$^$9$N$G!"$h$m$7$/$*4j$$$7$^$9!0!0(B
+12:04:53 <mae> 文字コード変更
+12:07:20 <darashi> こんにちはー
+12:07:22 <darashi> てすてぃn
+12:17:56 <snoozer05> バタバタバタ
+13:12:31 <darashi> ランチ懇親会が終わって戻ってきました
+13:12:40 <darashi> 14時開始です
+13:12:51 <darashi> 歓談＆セットアップ中
+13:16:21 <kunit-5192> 今日も2画面か。どういうのになるか楽しみ。
+13:25:08 <june29> wktk
+13:25:49 <kunit-5192> 今日もこのログは会場の人にみえてるのかな？
+13:31:23 <darashi> 会場でPCを持っている方には見えます＞ログ
+13:31:32 <darashi> プロジェクターは一台なので会場に投影はできませんー
+13:31:44 <kunit-7435> なるほど。きょうはそういう形式なんですね。
+13:33:14 <kunit-7435> 別画面でみるとちゃんとustにログインしてるけど、ここにはいるとログイン状態にならないのはなにかやり方がまずいのかな・・・
+13:33:28 <darashi> およ
+13:33:37 <darashi> なんですかねい。。
+13:33:47 <kunit-7435> まぁ、こまってないので問題ないです。
+13:52:16 <hides> aaaaaaあああ
+13:54:16 <kunit-7435> スライドの R まではうつってますよ。
+13:54:30 <maraigue> てすと
+13:54:36 <mrkn> 後ろからのアングルが http://www.ustream.tv/channel/mrkn-live で楽しめます
+13:55:53 <kunit-7435> 今って音声はどうやって拾ってるんだろう。ものすごくきれいに聞こえる。
+13:56:53 <darashi> 発表者まえのマイクから拾っています＞音声
+13:57:28 <bobchin-7037> 次回は足を運べるようにがんばろうっと
+13:57:35 <darashi> その他会場の周辺音を拾うマイクを一つ設置しています
+13:58:01 <nakayoshi> $BF~$C$F$_$?(B
+13:58:05 <kunit-7435> 音声をどう拾うかが悩みの種でして・・・
+13:58:08 <mrkn> UTF-8
+13:58:12 <noplans> utf-8です
+13:58:14 <kunit-7435> おー。いい試み。
+13:58:24 <darashi> http://d.hatena.ne.jp/darashi/searchdiary?word=%2a%5b%c7%db%bf%ae%5d
+13:58:40 <darashi> 過去数回の構成を書いておきました
+13:58:48 <darashi> はじまります
+13:58:56 <noplans> なんか音声が出てる?
+13:59:00 <kakutani> しまださんなんでスーツなの?
+13:59:09 <nakayoshi> $B$3$l$G$I$&$9$+!)(B
+13:59:24 <darashi> この後用事があるそうですよ
+13:59:26 <darashi> ＞スーツ
+13:59:29 <kakutani> なるほど
+13:59:30 <nakayoshi> NG?
+14:00:13 <noplans> 誰かのパソコンから音声が出てるのが気になる
+14:00:35 <nakayoshi> 再接続
+14:00:55 <nakayoshi> Am I OK?
+14:01:23 <mae> 次回こそ参加したいっすー＞関数型言語
+14:01:32 <kunit-7435> ust は？
+14:02:00 <mrkn> 次回こそ参加してくださいー > mae
+14:02:12 <mae> はいー
+14:02:16 <nakayoshi> お、大丈夫っぽい。
+14:02:28 <ustreamer-97631> RubyKaigiの話はさいごなのか
+14:02:29 <nakayoshi> なかよしです。よろしくお願いします。
+14:02:37 <noplans> 1000speakersとかぶってるのか
+14:03:18 <darashi> 自己紹介始まりました
+14:03:20 <kakutani> こっちをみる
+14:03:32 <ustreamer-97631> あれ、こっちはログアウトしているのか
+14:03:42 <takahashim> こっちからならだいじょうぶ？
+14:04:10 <mrkn>  /nick でニックネーム変えられます > ustreamer さん
+14:04:32 <mae> 聞こえないですね・・・
+14:04:33 <takahashim> http://ruby-sapporo.org/liveとhttp://www.ustream.tv/channel/rubysapporoではログイン状態が共有できてないのですね
+14:04:45 <nakayoshi> スープカレー（笑）
+14:05:02 <m_takagi> みたいですね >takahashim
+14:05:51 <mae> ぱちぱちぱち
+14:06:03 <noplans> ヒ・ダリがなかなか見えないな
+14:06:06 <mae> みくねぎｗ
+14:06:18 <tokibito-6172> ネギネギネギネギ
+14:06:30 <kunit-7435> 絵が気になって自己紹介に集中できない。
+14:06:39 <noplans> それが狙いか
+14:06:46 <nakayoshi> それだ！
+14:06:50 <mrkn> ネギがたまに分身するのがおもろい
+14:07:08 <mae> 葱くさいRuby
+14:07:32 <kunit-7435> これもなにか動かないか気になる。
+14:07:42 <darashi> 売れない芸人みたいw
+14:07:48 <mae> うわｗ
+14:07:49 <noplans> 少しずつ Ruby が大きくなってる
+14:08:00 <noplans> ComplexFloat(笑)
+14:09:10 <bobchin-7037> おお借りれるのか
+14:11:07 <mae> 5/17 CLR/H勉強会予定です。
+14:12:13 <kunit-7435> 次回の読書会はこの形にしよう。Google Docs使うのはありですね。
+14:12:55 <noplans> つぎは、まれーぐさん
+14:14:05 <noplans> www
+14:14:28 <nakayoshi> PythonとDelphi信者(笑)
+14:15:08 <noplans> 彼女が欲しいと思った場合どうするんだろうか
+14:15:18 <mae> プログラムで作（ｒｙ
+14:15:28 <mrkn> 彼女なんかも自分で作る！
+14:15:34 <nakayoshi> 彼女Generator
+14:15:54 <noplans> 次は、あらいゆうきさん
+14:15:59 <kunit-7435> ふつうだ。
+14:16:04 <mae> ふつうですね
+14:16:13 <noplans> 不通
+14:16:14 <nakayoshi> フツーの大学院生ｗ
+14:16:44 <kunit-7435> Prologか。普通だ。
+14:16:58 <mae> 音が時々途切れているのは僕だけですかね
+14:17:12 <mae> 皆さん現地なのかな
+14:17:20 <kunit-7435> ときどきぷちぷちします。
+14:17:24 <mrkn> gcc のフロントエンドなんてフツーですね
+14:17:33 <m_takagi> ふつうすぎる
+14:17:35 <mae> Schemeとは不通ですね
+14:17:49 <darashi> 聞き苦しい感じでしょうか？＞音声
+14:17:59 <kunit-7435> いえ。ときどきです。
+14:18:04 <mae> ときどき１秒くらい聞こえなくなる感じです。
+14:18:11 <m_takagi> 私は特に問題なしです
+14:18:17 <darashi> 会場でダウンリンクをモニターしてる限りはそこまでひどくはないんですが・・・
+14:18:29 <noplans> つぎは、吉井温さん
+14:18:35 <mae> 大体きこえるので大丈夫ですよ＾＾
+14:18:46 <darashi> 了解です、ありがとうございます
+14:19:56 <kunit-7435> ふつうとか、しがないとか、そういうのが多い。
+14:20:45 <darashi> タイムキーパー忘れてました、ごめんなさい。。
+14:21:03 <mae> 参加者14～5名くらいでしょうか？結構いらっしゃいますね
+14:21:04 <noplans> つぎは黒田拓さん
+14:21:07 <noplans> 24?
+14:21:13 <bobchin-7037> 5ふつうのぺちぱー
+14:21:17 <nakayoshi> 26名
+14:21:23 <noplans> nrhd
+14:21:34 <kunit-7435> おおいですね。
+14:21:38 <takahashim> ときどき音が小さいような
+14:21:40 <mae> おお、そんなにいらっしゃるのですか
+14:21:43 <nakayoshi> 驚異的ですな
+14:21:56 <nakayoshi> これはもう、拉致る鹿…ｗ
+14:22:07 <nakayoshi> 皆さん、CLR/H もヨロシク！（とか
+14:22:08 <mae> mrkn live の映像の後ろにもいるのですねｗ
+14:22:17 <mae> まぁ自重しておきましょうｗ
+14:22:18 <darashi> マイクから距離があるので会場後ろの方が入らないんですよねい。。＞音が小さい
+14:22:24 <noplans> 次は、麦島正司郎さん
+14:22:34 <noplans> マイク使う?
+14:22:41 <mrkn> 僕自身が mrkn-live カメラの後ろにいますｗ > mae さん
+14:22:45 <noplans> 遠隔マイク
+14:22:48 <noplans> 無線マイクか
+14:22:49 <bobchin-7037> 5完全アウェイになりそうなので現地にはいけない気もする。。。
+14:23:01 <mae> なるほどですねｗ＞mrknさん
+14:23:06 <kunit-7435> goto 120
+14:23:10 <noplans> 完全アウェイにはならないですよね
+14:24:38 <bobchin-7037> 5次回はがんばって参しよう
+14:24:41 <kunit-7435> 会場用マイク登場？
+14:24:53 <maraigue> 検索結果クラスタリングはもっと説明したら、食いつく人いたかも > 神田くん
+14:25:25 <mae> sumimさんの話聞くのも久々です＾＾
+14:25:45 <walf443> ls
+14:25:51 <kunit-7435> sumim++
+14:25:57 <nakayoshi> ナマsumimさん(笑)
+14:26:05 <darashi> ごめんなさいー
+14:26:19 <darashi> ustと同時に時計みるのはむずかしい。。
+14:26:51 <mae> どまです。
+14:27:09 <kunit-7435> うごかないのか？
+14:27:32 <nakayoshi> COBOLer。
+14:27:59 <mae> sakura
+14:28:50 <kunit-7435> 上を目指すというのか。こういうのも。
+14:29:18 <noplans> usl-5p?
+14:29:44 <noplans> http://www.iodata.jp/prod/storage/hdd/2004/usl-5p/index.htm
+14:29:48 <mae> じゃないですよね？
+14:29:54 <mae> ですか
+14:29:59 <mae> ドロボウ！！
+14:30:30 <mae> インパクトあるポジションペーパーだｗ
+14:30:48 <nakayoshi> 見えないリンク！ｗ
+14:31:07 <nakayoshi> 「ちょっと実はリンクがありまして」ｗｗｗ
+14:31:24 <mrkn> http://www.techworld.jp/
+14:31:26 <mrkn> ここですね
+14:31:28 <noplans> http://www.techworld.jp/
+14:31:32 <noplans> あ、すでに出てた
+14:31:47 <mae> http://techworld.jp/
+14:31:57 <mae> 送れ杉た
+14:32:02 <noplans> 面白すぎる
+14:32:09 <nakayoshi> サイコーですｗ
+14:32:21 <kunit-7435> 動くのか？
+14:32:40 <noplans> 髪が地味に伸びてる
+14:32:50 <nakayoshi> mjsk?
+14:32:50 <mae> 影も伸びてる
+14:33:04 <nakayoshi> 色彩検定
+14:33:35 <darashi> ばずったんを描いてくれた人です
+14:35:23 <darashi> 45分まで休憩です
+14:35:32 <noplans> きゅうけい
+14:35:36 <kunit-7435> わかりやすい
+14:35:54 <bobchin-7037> 5キャラ重要だな
+14:35:57 <kunit-7435> みんな寝るときは鍵をしめましょう。
+14:36:01 <mae> なんか楽しそうだｗ
+14:37:52 <bobchin-7037> 5白石にはホワイトストーンズがいないのか？
+14:38:24 <darashi> お菓子の周りで談笑中
+14:41:46 <tmaeda> ホワイトストーンズ休業中のようだ、、、
+14:45:02 <mae> ぱちぱちぱち
+14:45:06 <mrkn> 8888888
+14:45:13 <darashi> RubyistのためのDjango入門始まりました
+14:45:15 <noplans> 外に音聞こえてるのかな
+14:45:25 <kunit-7435> ばっちりきこえてますよ。
+14:45:30 <mae> RubyistのためのDjango入門スタート
+14:45:33 <noplans> thx > kunitさん
+14:45:38 <snoozer05> どうもです！やっと繋がった
+14:45:56 <snoozer05> kunitさん、ご参加ありがとうございますー
+14:46:04 <sumim> 作者の発音が聞きたい
+14:46:30 <mrkn> ここにきて fizzbuzz
+14:46:48 <nakayoshi> 誰が書いても同じようなソース
+14:46:53 <maraigue> 10fizzbuzz: いわゆる世界のナベアツがやってること
+14:46:56 <kakutani> でたなPython
+14:47:02 <nakayoshi> これが、Pythonの極意だ。
+14:47:07 <noplans> 知っているのかPython
+14:47:20 <kunit-7435> 書籍で誤植があると動かなくなる。
+14:47:26 <nakayoshi> Pythonで仕事しました。先週、納品したばかり。ｗ
+14:47:42 <maraigue> インデント重要(Python的な
+14:48:08 <nakayoshi> Pythonのリストについて
+14:48:09 <mrkn> パインソ！
+14:48:11 <noplans> 会場の後ろの人は
+14:48:11 <noplans> http://ruby-sapporo.org/live
+14:48:23 <noplans> を見ると、そちらの方が見やすいかもです
+14:48:27 <kakutani> 参加者はだいたい何人ぐらいなの?
+14:48:40 <noplans> 28人だそうです > kakutani さん
+14:48:46 <snoozer05> ですー
+14:48:48 <kakutani> 盛況ですなあ
+14:48:50 <nakayoshi> スゴイ！ｗ
+14:48:57 <maraigue> Pythonでリストの範囲指定は「1:3」みたいに指定
+14:49:01 <snoozer05> ありがたいことですw
+14:49:08 <maraigue> 辞書(RubyのHashに相当
+14:49:29 <sumim> あ、kakutani さん。こんにちはー
+14:49:49 <maraigue> Pythonでは__init__がRubyのinitializeに相当
+14:49:49 <kakutani> こんちはw sumimと聞いてw
+14:49:51 <nakayoshi> はじめまして > kakutani さん
+14:50:05 <sumim> おお。今日ははとバスでお出かけかと…
+14:50:13 <snoozer05> 今までのRuby勉強会で"インデント"と発声した数を、既に軽く凌駕w
+14:50:25 <noplans> www
+14:50:28 <maraigue> インデントwww
+14:50:35 <nakayoshi> Djangoの実績について
+14:51:08 <nakayoshi> http://www2.ljworld.com/
+14:51:37 <nakayoshi> http://www.review-board.org/
+14:51:53 <nakayoshi> http://www.review-board.org/
+14:52:01 <kunit-7435> ん？2画面がずれてるのはなぜ？
+14:52:01 <nakayoshi> http://code.google.com/appengine/
+14:52:04 <noplans> ありゃ、ミギが
+14:52:06 <darashi> 会場の帯域きついのか？
+14:52:11 <snoozer05> ちょっと遅延があるのですー。
+14:52:34 <noplans> 帯域きついかも
+14:52:37 <nakayoshi> http://ja.doukaku.org/
+14:52:46 <snoozer05> とりあえず、おいら画面切りました。
+14:52:50 <noplans> ditto
+14:52:53 <tmaeda> ditto
+14:52:59 <nakayoshi> http://gu3.jp/
+14:53:13 <darashi> 無線の帯域の問題かもしれませんね
+14:53:28 <nakayoshi> http://monologista.jp/
+14:53:30 <kunit-7435> 会場で ust を見ちゃっている人がいたりする？
+14:53:42 <snoozer05> 会場にいらっしゃる方で問題ない方はUstの画面は開かないでいただけるとありがたいですー＞参加者の方々
+14:54:03 <snoozer05> ご協力感謝致しますm(_ _)m
+14:54:09 <nakayoshi> 隠れたタブを今閉じました(汗) すみません。
+14:54:27 <nakayoshi> Django のアーキテクチャー
+14:54:43 <nakayoshi> Movel-View-Template について
+14:55:18 <snoozer05> ここ、よく混乱してしまう
+14:55:28 <maraigue> MVC --> MTV
+14:55:45 <snoozer05> 画面、まだ遅延酷いでしょうか？＞会場外の方
+14:55:46 <mrkn> model-view-template いいな
+14:56:03 <mae> 多少ありますが、大丈夫です
+14:56:12 <mae> っとまたﾐｷﾞ切れましたね
+14:56:22 <darashi> んお
+14:56:23 <snoozer05> ><
+14:56:24 <nakayoshi> まずはモデル
+14:56:27 <mrkn> Web アプリ開発で MVC と言ってるのがずっと納得いかなかったのを解決してくれそうだ
+14:56:30 <m_takagi> まだちょっと遅れてますね……
+14:56:40 <nakayoshi> O/R マッパーですね
+14:56:59 <maraigue> Djangoのモデル：モデルだけコード書けばあとはコマンド一発でOK
+14:57:06 <darashi> ちょっと画質下げました＞右
+14:57:16 <darashi> うは、見づらいな・・・
+14:57:25 <noplans> ふむふむ > 画質
+14:57:38 <snoozer05> 別回線にしてもキツいかしら？＞だらさん
+14:57:40 <colspan-6476> こんにちは！
+14:57:41 <nakayoshi> Entryオブジェクトを作ってみる
+14:57:46 <m_takagi> まぁ右は雰囲気が伝わればそれでいいので :-)
+14:57:48 <noplans> colspanさん
+14:57:55 <noplans> コニチワ
+14:57:55 <maraigue> こんにちは > colspan
+14:57:59 <snoozer05> こんにちわ！＞群馬のcolspanさん
+14:58:02 <mrkn> ぉ > colspan
+14:58:07 <mae> こにちは、はじめましてー
+14:58:08 <mrkn> こんにちわ！っこんにちわ！ > colspan
+14:58:17 <colspan-6476> 今群馬って、詳しいですねｗｗ みなさんこんにちは
+14:58:19 <darashi> 配信機を有線にできればいいのかもしれないけれど、長いケーブルの在庫はないですねい
+14:58:20 <tmaeda> おぉ。 colspan さん、こんにちわ 
+14:58:27 <nakayoshi> 正規表現を用いたURL設計について
+14:58:30 <noplans> ケーブル買っておきますか
+14:58:57 <snoozer05> routes.rbと同じ感じで＞正規表現でのURL設計
+15:00:10 <nakayoshi> テンプレートエンジンについて
+15:00:36 <maraigue> テンプレートエンジン {% と %} の間にコード埋め込み
+15:00:44 <darashi> ふむふむ、面白いですねい
+15:00:47 <nakayoshi> extends を使うことで、テンプレートの継承ができる。ここ重要。
+15:01:21 <nakayoshi> ビュー関数について。Railsでいうところの、コントローラにあたる。
+15:01:38 <snoozer05> viewは関数→ハンドラのイメージかな
+15:02:35 <nakayoshi> 汎用ビューについて
+15:02:50 <nakayoshi> →ビュー関数を"DRY"に！
+15:04:00 <nakayoshi> DRYを徹底的に追求している。
+15:04:35 <nakayoshi> * カッコいい管理画面について(admin)
+15:04:43 <snoozer05> 認証も最初からついているんですよね。
+15:04:55 <nakayoshi> ついてます
+15:05:28 <nakayoshi> * フォーム生成とバリデーションについて
+15:06:08 <ustreamer-97631> adminとRailsのActiveScaffold比較してほしい
+15:06:10 <nakayoshi> 「フォームとモデルは別」→ココが重要！
+15:06:46 <nakayoshi> それぞれ別にバリデーションを行う
+15:07:11 <snoozer05> adminで具体的に何が出来るのか、ということが聞ければよいですか？＞ustreamer-97631さん
+15:08:19 <nakayoshi> フォームクラスの実例を説明中
+15:09:10 <nakayoshi> フォームクラスから、HTMLのタグを自動出力する
+15:09:35 <nakayoshi> 便利な機能の紹介に入った
+15:09:48 <nakayoshi> モデルから、フォームを生成することが可能
+15:10:25 <snoozer05> TODO:この資料をあとでじっくり読む
+15:10:33 <kunit-7435> Railsだと案件等乳児にWebサーバ周りをどうするよということが問題になると思うんですが、djangoはどうなんでしょうかね？
+15:10:39 <nakayoshi> バリデーションの使い方を説明中
+15:10:41 <kunit-7435> mod_pythonでおkなのかな？
+15:10:47 <mae> COPY TODO:この資料をあとでじっくり読む
+15:11:12 <bobchin-7037> 5OKだったと思います
+15:12:23 <snoozer05> MEMO:DB周りの処理で遅延評価をたくさん使ってる
+15:12:46 <kunit-7435> じゃあ、mod_pythonでみんな動作させてるんだ。それは迷わなくていいなぁ。
+15:13:06 <bobchin-7037> 5http://michilu.com/django/doc-ja/install/
+15:13:29 <nakayoshi> 最初から国際化意識した設計。
+15:13:50 <nakayoshi> localflavorアドオンで、都道府県を一発で表示も可能
+15:18:10 <snoozer05> それは素晴らしいなあ
+15:18:12 <nakayoshi> 開発版については、SVN。
+15:18:25 <noplans> ドキュメント
+15:18:25 <nakayoshi> オンラインドキュメントは、最新版に追従している。
+15:18:27 <snoozer05> ドキュメント
+15:18:30 <mae> ドキュメント全て和訳済み。
+15:18:32 <nakayoshi> 素晴らしい！
+15:18:44 <nakayoshi> django-ja で聞いてみよう！
+15:18:57 <nakayoshi> Djangoの情報について
+15:19:22 <nakayoshi> http://d.hatena.ne.jp/johzan/
+15:19:47 <nakayoshi> http://www.ueblog.org/mediawiki/index.php?title=Django
+15:19:49 <snoozer05> これ、OSCで話してもらおうかしら
+15:19:57 <snoozer05> 出た live coding
+15:20:06 <nakayoshi> 実際に作ってみるコーナー
+15:20:17 <nakayoshi> 時間は、残り25分ある。
+15:20:22 <kunit-7435> capistrano っぽいデプロイツールはあるのかな？
+15:20:33 <nakayoshi> 15分あれば、ゲストブックが作れます。（スゲー！ｗ
+15:20:42 <snoozer05> capistranoを使ってるらしいですよ
+15:20:51 <kunit-7435> そうなんだ。
+15:21:14 <nakayoshi> OSCの日は、Python温泉があるらしいですよ！
+15:21:19 <snoozer05> ><
+15:21:22 <nakayoshi> 残念です…。
+15:21:38 <nakayoshi> スゴイ集客力あるのにね。
+15:21:58 <nakayoshi> 「集客 Hacks」的には、実に残念なことでした。
+15:22:41 <nakayoshi> 現在、settings.py を編集中。
+15:22:51 <nakayoshi> DBは、sqlite3を利用。
+15:22:52 <kunit-7435> このエディターなんだろう。それが気になる・・・
+15:22:55 <ustreamer-14203> エディタは何でしょうか？
+15:23:07 <nakayoshi> エディタは、intypeです。
+15:23:14 <nakayoshi> textmate もどきです。
+15:23:16 <snoozer05> textmateもどき
+15:23:29 <snoozer05> 今はα版？でフリーで使えるそう。
+15:23:38 <noplans> http://mrm.seesaa.net/article/32320020.html
+15:23:39 <noplans> kore?
+15:23:40 <snoozer05> 日本語もプラグインを入れれば使えるはずですー
+15:23:54 <snoozer05> ですね＞noplans
+15:23:57 <m_takagi> http://intype.info/
+15:24:08 <ustreamer-14203> 便利そうですね／
+15:24:14 <snoozer05> ですね！
+15:24:24 <noplans> TextMate 2.0はいつ出るんだ
+15:24:30 <snoozer05> www
+15:24:35 <nakayoshi> > manage.py startapp
+15:24:40 <kunit-7435> 寡黙な generator だなぁ。
+15:24:57 <nakayoshi> 余計なモノは、一切なし。
+15:24:59 <nakayoshi> これが大事だ。ｗ
+15:25:32 <noplans> ほんとに TextMate っぽいな
+15:25:33 <mae> 見えにゃいｗ
+15:25:37 <mrkn> システムにインストールされているDjangoと異なるバージョンのDjango を使いたいときはどうするんですか？
+15:25:40 <darashi> ズーム難しい
+15:25:55 <darashi> リモコンでは四隅を拡大するしかできないんですよね・・・
+15:25:55 <mae> 無理しないでよいですよ＾＾；＞darashiさん
+15:26:11 <darashi> ごちゃごちゃ動かさないほうがよさそうですね
+15:26:17 <mae> はい
+15:26:20 <snoozer05> kwsk>mrkn
+15:26:22 <darashi> 心の眼で読んでいただければw
+15:26:27 <snoozer05> このエディタでってこと？
+15:26:30 <mae> ｗ
+15:26:36 <mrkn> エディタではなくて
+15:26:45 <mrkn> Django です
+15:26:48 <nakayoshi> 次回は、ライブコーディング義務付け（とかｗ
+15:26:50 <mae> 複数実行ですか？
+15:26:51 <mrkn> 余計なものが一切なかったので
+15:26:53 <snoozer05> なるほど
+15:27:03 <snoozer05> 質問しましょう!
+15:27:15 <snoozer05> というか、あとでしてw>mrkn
+15:27:18 <mrkn> そうですね！
+15:27:58 <nakayoshi> > manage.py syncdb
+15:28:03 <nakayoshi> これで、テーブル作成
+15:28:42 <nakayoshi> Adminの認証機能も、自動で作成される。イイ！ｗ
+15:29:06 <nakayoshi> これでもう、"It worked!" 出ました。
+15:29:22 <ustreamer-14203> DBはSQLiteですか？
+15:29:27 <nakayoshi> ビュー関数にて、Admin用のマッピングを設定する。
+15:29:33 <snoozer05> です＞SQLite
+15:29:34 <mrkn> さっき sqlite3 にしてましたね > DB
+15:29:39 <nakayoshi> ですね
+15:29:53 <sumim> このきめの細かさは Python クオリティ
+15:29:55 <nakayoshi> Admin画面で、テストデータを入力中。
+15:30:05 <nakayoshi> Python信者、増加中。
+15:30:15 <nakayoshi> Follor python (とかｗ
+15:30:22 <ustreamer-14203> 機能が豊富ですねえ
+15:30:23 <nakayoshi> follow だった。（恥
+15:31:29 <nakayoshi> View (ビュー関数) にて index() メソッドの中身を作成中。
+15:31:52 <nakayoshi> これが、Railsでいうと、コントローラということでオケですか？> Rubyist の皆さん
+15:32:47 <nakayoshi> 汎用ビューを使うことで、一行で全ての処理を記述可能デス。
+15:32:53 <nakayoshi> キーワード引数の妙。
+15:32:55 <ustreamer-31489> どんどん機能が追加されていく
+15:33:35 <nakayoshi> ここで、URL情報のマッピング定義。
+15:33:45 <snoozer05> 厳格
+15:33:48 <nakayoshi> Pythonでは、明示的に書いてないことが自動的に実行されることはない！
+15:33:59 <nakayoshi> Explicit 重要！
+15:35:45 <nakayoshi> 黒魔術を取り除くための努力がスゴイらしいですよ！ｗ
+15:35:53 <kunit-7435> 少なくともこのエディターのユーザは増える気がする。
+15:35:58 <snoozer05> www
+15:36:00 <mae> 同意ｗ
+15:36:21 <maraigue> 黒魔術を取り除く,
+15:36:24 <maraigue> ですか。
+15:36:28 <colspan-6476> これはなんていうエディタですか?
+15:36:38 <nakayoshi> intype ですね
+15:36:44 <snoozer05> http://intype.info/
+15:37:00 <colspan-6476> ありがとうございます > nakayoshiさん snoozer05さん
+15:37:29 <noplans> MacだとTextMateというのがあるよ
+15:37:32 <mrkn> 「明示的に書いてないことが自動的に実行されることはない」っていうのは言い過ぎな気がｗ
+15:37:52 <nakayoshi> 確かにｗ
+15:37:57 <nakayoshi> 言い過ぎました。スマソ
+15:38:13 <mrkn> 要は，使ってる人が満足するかしないかの問題かなぁと思います
+15:38:30 <nakayoshi> intype, ダウソしてインスコしてみた。
+15:38:33 <nakayoshi> 起動した。
+15:38:35 <nakayoshi> もう使える！ｗ
+15:38:42 <m_takagi> 早っｗ
+15:38:54 <nakayoshi> 普通の人の、3倍速い（とかいうｗ
+15:38:58 <maraigue> intypeの補完の強力さは異常
+15:39:56 <nakayoshi> おぉ～、これはいいデス！ < intype
+15:40:02 <nakayoshi> 明日から、これで仕事しよう。
+15:40:30 <m_takagi> 休み明けに会社のWindowsマシンで試してみる
+15:42:34 <nakayoshi> 17分で作ったゲストブック（ｗ
+15:43:49 <nakayoshi> reStructured Text
+15:43:53 <mrkn> 888888
+15:43:58 <colspan-6476> お疲れ様でした。
+15:43:59 <maraigue> すごい！おつかれさまでした！
+15:44:10 <nakayoshi> 乙カレー！
+15:44:13 <mae> ありがとうございましたー
+15:44:37 <nakayoshi> 私のメモ、うるさかったですか？＞ All
+15:44:51 <noplans> おつです > nakayoshiさん
+15:44:53 <noplans> ありがたかったです
+15:44:57 <mae> 僕はありがたかったですー
+15:45:14 <nakayoshi> それはよかった、頑張って打ち込んだ甲斐が…(涙)
+15:45:48 <nakayoshi> CLR/H でも、IRC実況やりますか。ｗ
+15:45:58 <nakayoshi> 質問時間に入りました。
+15:46:00 <nakayoshi> Railsde
+15:46:01 <siena> うぇるかむです、情報は多い方が嬉しい ^^= >> nakayoshi
+15:46:07 <mrkn> nakayoshi さんのメモはタイミング良くて助かります
+15:46:07 <nakayoshi> Railsでいうところの、
+15:46:13 <mae> では副幹事あたりの役目にｗ
+15:46:17 <nakayoshi> migrationがどうなりますか？(by しだらさん
+15:46:53 <nakayoshi> > manage.py dumpdata --format-xml
+15:47:10 <nakayoshi> いったん全部ダンプして、model 変更後、入れなおす。
+15:47:31 <nakayoshi> ほかには、O/R マッパーも容易に使えるので、
+15:47:40 <nakayoshi> 標準のO/Rマッパーが気に入らなければ、
+15:47:46 <nakayoshi> SQLAlchemy等使うがよろし。ｗ
+15:47:58 <nakayoshi> エディタの名前をもう一度！
+15:48:04 <nakayoshi> intypeです。
+15:48:20 <nakayoshi> http://intype.info/home/index.php
+15:48:23 <siena> 質問: Django が苦手そうなところは?
+15:48:39 <nakayoshi> アルファ版なので、無料で使えます。(intype9
+15:48:42 <ustreamer-14203> チェコの青年が作っているみたいです>intype
+15:48:47 <noplans> チェコ!
+15:49:12 <siena> 長所だけでなくて短所も分かると選択の参考になるです
+15:49:15 <noplans> ぷらーは
+15:50:03 <siena> なるほど、メール周りは発展途上、とφ(.. )
+15:50:12 <kunit-7435> ぱちぱち
+15:50:14 <siena> ぱちぱち
+15:50:17 <noplans> prague
+15:50:18 <nakayoshi> 拍手です～
+15:50:18 <tmaeda> 16:00まで休憩
+15:50:23 <maraigue> [画面が一時的に消えました 皆様ご心配なく]
+15:50:25 <nakayoshi> 5分間の休憩です。
+15:50:33 <kunit-7435> 場外乱闘的に。
+15:50:38 <kunit-7435> sumimさんにMVC発祥のsmalltalkでのMVCの現在の扱いについてきいてみたい
+15:50:58 <tmaeda> あ、15:55までか？＜休憩
+15:51:13 <snoozer05> 16:05分までですね
+15:51:44 <mae> 15分間ですかね＞休憩
+15:51:44 <snoozer05> 今のMVCはJ2EEから出てきたMVCだと思うので、Smalltalk発祥のMVCと考えると難しいかもです
+15:51:58 <mae> Struts
+15:52:00 <snoozer05> 今のMVC > Webで使われてるMVC
+15:53:20 <kunit-7435> あ、そのSmalltalk側のMVCがどうなってるのかなぁと。
+15:53:41 <snoozer05> nrhd
+15:53:44 <kunit-7435> J2EEがゆがめてしまった方じゃない方。
+15:55:00 <nakayoshi> Chat & Twitter Officer (とかｗ
+15:55:40 <nakayoshi> 今から、資料を公開します。
+15:56:23 <mrkn> 1000speakers がスーファミ最強とか言ってるｗｗｗ
+15:56:30 <sumim> 現在も健在ですよ。＞MVC
+15:56:32 <nakayoshi> http://tokibito.orz.hm/presentation/2/
+15:56:38 <nakayoshi> キター！ｗ
+15:56:39 <sumim> tada
+15:56:48 <sumim> ただ、
+15:57:12 <nakayoshi> ソースもあるでよ～
+15:57:13 <nakayoshi> http://tokibito.orz.hm/presentation/src/2/
+15:57:40 <tokibito-1828> もどってまいりました
+15:57:44 <sumim> いろいろとバリエーションはあります。
+15:58:06 <mae> おかえりです
+15:58:11 <nakayoshi> IRC職人もラクじゃないねｗ
+15:58:12 <mae> 公開早いですねーありがとうございます！
+15:58:49 <kunit-7435> なるほど。そのバリエーションを調べてみよう。やっぱりMVCはWebにあってない気がする。
+15:58:59 <maraigue> (snoozer05氏より) 勉強会で話してくれる人を募集
+16:00:48 <tokibito-1828> amachangのs6を使ってます。裏はdjangoとdocutilsto
+16:01:01 <tokibito-1828> docutilsとpygmentsです
+16:01:12 <mae> プレゼンツール自作なのですね
+16:02:57 <kakutani> sumim
+16:03:00 <nakayoshi> sumim さん始まりました。
+16:03:01 <tmaeda> wktk
+16:03:01 <noplans> なんだよこれwww > 「ゆるカワ愛されＧＣＣ」この春はＧＣＣで愛される自分を演出 隠れ家的コンパイラ 小悪魔フロントエンド
+16:03:02 <tokibito-1828> です。reStructuredTextで書けるのでよい感じです
+16:03:08 <kakutani> rubiniusときいて
+16:03:10 <mrkn> sumim ktkr
+16:03:12 <tokibito-1828> smalltalk!
+16:03:14 <snoozer05> sumimさんはじまりー
+16:03:21 <snoozer05> スはSmalltalkのス
+16:03:22 <tmaeda> Sは大文字！
+16:03:43 <nakayoshi> Rubinius ～Smalltalk指向
+16:04:27 <kunit-7435> やはり、その場実行か。すげー。
+16:04:29 <kakutani> プレゼンのほうのカメラが左のほうが若干見切れてない?
+16:04:42 <kunit-7435> 実行できるプレゼンツール。
+16:04:43 <darashi> 周波数のせいか、右側切れてます
+16:05:34 <snoozer05> 環境！
+16:06:14 <snoozer05> 小さなVM、自己記述型の処理系
+16:06:18 <m_takagi> http://rubini.us/
+16:06:24 <darashi> うーん、すません、うまいこといかなそうです＞左切れ
+16:06:32 <kakutani> らじゃ
+16:06:32 <maraigue> 処理系もRubyで記述
+16:06:36 <mae> りょかい
+16:06:55 <kakutani> ぜんぶじゃないはず < Rubyで処理系
+16:07:00 <mae> URLニクイなぁ
+16:07:10 <snoozer05> 今はCも入ってますよね＞処理系
+16:07:10 <kakutani> でも、全部RubyでかきたいとEvanはいってたと思う
+16:07:18 <kakutani> C++にするとかいってなかって
+16:07:27 <kakutani> rubyspec wwwwww
+16:07:29 <tmaeda> RSpecコンパチのRuby仕様！！！
+16:07:44 <kakutani> mspec とゆーのがrubiniusのソースツリーにある
+16:07:52 <mrkn> フル C++ の Ruby 処理系 Boost.Ruby を作りたい！
+16:07:57 <kakutani> 1ファイルのrspec
+16:08:11 <kakutani> 名セッションの予感
+16:08:38 <snoozer05> こんなセッションをできて光栄だなあ
+16:09:23 <snoozer05> メッセージ廚
+16:09:37 <kakutani> sumimがSmalltalkって何回言うかカウントしようぜw
+16:09:40 <noplans> wwwww
+16:09:42 <snoozer05> wwww
+16:09:43 <ustreamer-96021> ww
+16:09:56 <nununu> 米国から登場です。すげー未来だ。
+16:10:04 <snoozer05> oo
+16:10:08 <mae> こんにちは
+16:10:15 <nununu> こんにちは
+16:11:18 <snoozer05> ふつうの人w
+16:11:24 <nakayoshi> おぉ、ぬさんだｗ
+16:11:25 <ustreamer-5073> 皿だ
+16:11:37 <mae> Stuckの説明中
+16:11:50 <ustreamer-5073> St"a"ckだよ
+16:11:51 <siena> stack
+16:11:53 <mae> stackだた
+16:12:07 <mrkn> last-in-first-out
+16:12:26 <snoozer05> バイトコードインタプリタ
+16:12:30 <mae> 指摘あざーす
+16:12:49 <darashi> うは、直りました＞資料カメラ
+16:12:58 <darashi> 御迷惑をおかけしますた
+16:13:10 <mae> ありがとーございます＞dara氏
+16:13:12 <snoozer05> ありがとー＞darashi
+16:13:14 <kakutani> mspecは、CRubyチームも(matz,ko1,knu)も「いいよ」と言ってたので、ぼくにとってはいい流れ
+16:13:23 <snoozer05> ふむふむ
+16:13:32 <darashi> [Reset]ボタン重要@TwinPact
+16:13:57 <kunit-7435> いつみてもこのプレゼン環境はすごいなぁ。
+16:14:06 <kakutani> rubyconfでは正直evanのプレゼンはネタ以外理解できなかったので、超たすかる
+16:14:12 <mae> ほんとに凄いですねぇ
+16:14:18 <kakutani> このプレゼン環境は、Smalltalkなの?
+16:14:26 <kunit-7435> のはず。
+16:14:29 <siena> 読めない ^^;;
+16:14:29 <ustreamer-5073> 「こうぶんぼく」じゃなくて「こうぶんぎ」と呼ぶ自分
+16:14:34 <snoozer05> です＞環境
+16:14:35 <kakutani> ぼくらはいま、Smalltalkオブジェクトを見ているわけですね
+16:14:40 <snoozer05> ですねー
+16:14:47 <mae> 以前Squeakと聞いた気が
+16:15:03 <mae> でしたっけ？＞しまださん
+16:15:11 <snoozer05> ですね
+16:15:14 <noplans> 「こうぶんぎ」でいいとおもいますよ
+16:15:17 <kakutani> 誰かこれをRubiniusで
+16:15:21 <nakayoshi> バイトコード化の利点　例：フルスピード・デバッグ
+16:15:40 <tmaeda> この木って違わないかなぁ？  (+ 3 (* 4 5)) な気が。
+16:16:01 <kakutani> に、見える
+16:16:02 <snoozer05> うほ
+16:16:04 <mrkn> こうぶんき
+16:16:12 <mrkn> って読んでます
+16:16:29 <nakayoshi> 流派が乱立
+16:16:32 <ustreamer-5073> たしかに、この木はこれでいいのかな。まぁいいけど。
+16:16:43 <ustreamer-5073> メリットよくわからなかった。
+16:16:46 <mrkn> 普通，2項演算を構文解析すると，演算子の両手にオペランドがぶら下がりますね
+16:17:10 <siena> ですね
+16:17:16 <noplans> すげえ環境だなあ
+16:17:18 <kakutani> かっけーなあ
+16:17:34 <kakutani> 「ちょっとコードを見てみましょう」ヤバイ
+16:18:01 <nakayoshi> 生体解剖
+16:18:06 <mrkn> 　　＋
+16:18:08 <mrkn> 　／　＼
+16:18:09 <mrkn> ３　　　＊
+16:18:34 <snoozer05> かっけえ
+16:18:36 <mrkn> 　　　／　＼
+16:18:36 <mrkn> 　　４　　　５
+16:18:37 <tokibito-1828> うへ、実際に実行してる
+16:18:37 <mrkn> こんな感じですね
+16:18:39 <nakayoshi> 実行即画面書き換え。素晴らしい！ｗ
+16:18:41 <kunit-7435> 文字列選択して実行ですからね。
+16:18:49 <snoozer05> 言ったw
+16:18:50 <kakutani> smalltalk += 2
+16:18:58 <kakutani> smalltalk +=1
+16:19:03 <tokibito-1828> squeakなつかしい
+16:19:39 <nakayoshi> Smalltalk 速いぞ！ｗ
+16:19:40 <snoozer05> いつ見てもカッコいい
+16:19:45 <nakayoshi> Python はどう？
+16:19:45 <noplans> この環境誰か作れ!
+16:19:46 <mrkn> s は大文字
+16:19:48 <tmaeda> pythonも実行できんのかw
+16:20:00 <mae> なんでもありｗ
+16:20:08 <kunit-7435> 実行するのか、そこで。
+16:20:10 <ustreamer-91452> すごいなww
+16:20:10 <kakutani> ちょwwwwwwwww
+16:20:13 <mae> なんというライブｺｰﾃﾞｨﾝｸﾞ
+16:20:24 <noplans> ハングwwww
+16:20:28 <mae> ww
+16:20:28 <kakutani> nice boat.
+16:20:29 <ustreamer-5073> えええええｗｗ
+16:20:29 <nakayoshi> python -v じゃなく、
+16:20:31 <nakayoshi> python -V
+16:20:34 <ustreamer-91452> wwww
+16:20:37 <nakayoshi> デス！ｗ
+16:20:39 <kunit-7435> プレゼン資料がハングするとは。
+16:20:40 <mrkn> ｗｗｗ
+16:20:43 <snoozer05> www
+16:20:46 <mrkn> SIGINT 送るしか
+16:20:47 <walf443> これはあたらしいw
+16:20:48 <siena> kill
+16:20:53 <mrkn> python に kill -INT すれば良い
+16:20:55 <noplans> ライブデモ
+16:20:56 <ustreamer-5073> 自爆ｗｗｗ
+16:21:00 <kakutani> python を kill
+16:21:03 <nakayoshi> プレゼンで自爆テロ
+16:21:41 <nakayoshi> プレゼン環境全体が、Squeak 
+16:21:44 <mae> pythonのせいｗ
+16:21:44 <ustreamer-91452> wwwwwwwww
+16:21:47 <mrkn> Python の所謂でｗｗｗｗｗｗｗｗ
+16:21:48 <maraigue> pythonのせいにwwwwww
+16:21:49 <tokibito-1828> disられたｗ
+16:21:49 <ustreamer-5073> まるで仕込まれたようなｗ
+16:21:52 <nakayoshi> ｗｗｗ
+16:21:53 <siena> Python かわいそす ^^;
+16:22:00 <nununu> 笑いすぎｗ
+16:22:06 <kakutani> これだからpython w
+16:22:07 <nakayoshi> 「Pythonのせいで！」ｗ
+16:22:10 <snoozer05> www
+16:22:21 <noplans> カワイソス><
+16:22:22 <kunit-7435> Ruby札幌では上げて落とす。
+16:22:31 <snoozer05> ><
+16:22:36 <maraigue> rubyとpythonはかなりオプションが違う
+16:22:55 <snoozer05> 小さなVM
+16:23:11 <kakutani> EvanがKernelっていってたやつかな
+16:23:14 <ustreamer-5073> Rubyでコンパイラ書くと楽だよなー、Cなんかより
+16:23:15 <snoozer05> →VMはシンプルで、たくさんのことをしない
+16:23:26 <kakutani> Smalltalk.count = 4
+16:23:27 <snoozer05> 今はC、将来はRubyで
+16:23:40 <snoozer05> 大文字になったw
+16:23:59 <mrkn> マイクロカーネルみたいな流れに
+16:24:03 <mrkn> マイクロVMか
+16:24:11 <snoozer05> おお
+16:24:13 <snoozer05> C++
+16:24:16 <mrkn> C++
+16:24:17 <ustreamer-5073> IBM Watson の Jikes VM みたいだな
+16:24:19 <mrkn> Boost.Ruby！！！
+16:24:23 <nakayoshi> 「"小さな"VM」「"自己記述型"処理系」なるほど。
+16:25:16 <ustreamer-91452> ライブラリと組み込みの区別がない、なるほど。
+16:25:33 <snoozer05> あくまでイメージ
+16:25:33 <snoozer05> w
+16:25:45 <ustreamer-5073> これはいいまとめ！
+16:26:14 <mae> へーYACCなんだ
+16:26:16 <kakutani> ustreamer-5073:  /nick しないんですか?
+16:26:22 <maraigue> smalltalkは全部smalltalkか…
+16:26:27 <noplans> S
+16:26:29 <snoozer05> Sは大文字！
+16:26:37 <mrkn> ほんとうに画像だったりして
+16:26:38 <nakayoshi> そこ大事
+16:26:38 <mrkn> Ruby1.9 のパーサは Yacc じゃなくて Bison
+16:26:38 <kakutani> Smalltalk自重wwww
+16:26:44 <snoozer05> 小文字にすると、あとで怖いのです ><
+16:26:46 <ustreamer-5073> ustream使い方わからんです‥
+16:26:50 <maraigue> すみませんw > 小文字
+16:26:55 <kunit-7435> 今日の結論： Smalltalk の S は 大文字
+16:26:58 <snoozer05> www
+16:27:00 <mrkn> ComplexFloat も C で書かれてます！
+16:27:03 <nakayoshi> こうぶんぼく
+16:27:12 <maraigue> そこ結論じゃないですw > 大文字
+16:27:16 <noplans> ComplexFloat(笑)
+16:27:16 <mae> そうなのですか＞Ruby1.9 Bison
+16:27:21 <darashi>  /nick nickname と書くとnickを変更できます
+16:27:47 <ReiOdaira> nickname付けてみた
+16:27:47 <mrkn> Ruby1.9 のパーサは bison 必須のはずです
+16:27:55 <ReiOdaira> thx
+16:28:05 <mrkn> ∵再入可能パーザを生成する必要があるため
+16:28:30 <mae> 知らなかったー
+16:29:14 <snoozer05> たくさん言った ><
+16:29:21 <ReiOdaira> 自己記述しようとすると、問題はGCなんだよな
+16:29:23 <nakayoshi> もっとひどいことに、VM自体がSmalltalk(笑)
+16:29:31 <snoozer05> www
+16:29:35 <nakayoshi> 確かにこう言った！ｗ
+16:29:37 <maraigue> Smalltalkすごすwwww
+16:29:43 <mae> 何回行ったんだろｗ
+16:29:57 <nakayoshi> 誰かカウンターは？
+16:30:05 <m_takagi> もはや数え切れないｗ
+16:30:08 <snoozer05> www
+16:30:16 <maraigue> nakayoshiさんが数えてたのではないのですか？w
+16:30:16 <kakutani> お母んと雑談しながらなので数えられないwww
+16:30:25 <kunit-7435> Pythonは5回くらいのはず。
+16:30:32 <snoozer05> ちょwww>kakutani
+16:30:38 <nakayoshi> 数えてなかった… 出直してきます…ｗ
+16:30:41 <tokibito-1828> squeakVMがいい
+16:30:43 <mrkn> http://www.mars.dti.ne.jp/~umejava/smalltalk/squeak/
+16:30:47 <mrkn> SqueakVM の歴史
+16:30:49 <darashi> 録画してるんで後でゆっくり数えてくださいw
+16:31:07 <mrkn> 面白いからオススメ
+16:31:13 <ReiOdaira> ううむ、ルビニウスいい心意気だなぁ
+16:31:16 <coji> 1000speakers@ustream からきますた
+16:31:22 <kakutani> とうへんぼく
+16:31:22 <tokibito-1828> このGUIのウィンドウももSmalltalkで書かれてるからボタンとかに
+16:31:23 <snoozer05> cojiさんだ！
+16:31:25 <tokibito-1828> 分解できる
+16:31:31 <coji> こにちはー
+16:31:37 <maraigue> そういえば、数えると言い出したのはkakutaniさんだったww > nakayoshiさん
+16:31:37 <mrkn> coji さんこんにちわ
+16:31:43 <mae> こにちはー
+16:31:48 <snoozer05> sumimさんが後半を早くと＞cojiさん
+16:31:54 <snoozer05> さっき、仰せつかりました ><
+16:31:56 <coji> うほ
+16:31:58 <tmaeda> cojiさんこにちわ
+16:31:59 <mrkn> こうぶんぼく
+16:32:02 <maraigue> こうぶんぼく
+16:32:03 <mae> こうぶんぼく
+16:32:08 <maraigue> かぶったwww
+16:32:28 <ReiOdaira> こうぶんぼく　木になるｗ
+16:32:30 <noplans> こうぶんぼくでもいいと思いますよ
+16:32:33 <snoozer05> すぐに伝えれて良かった(^^;
+16:32:40 <coji> rails 東京のときの後半動画わすれてたー
+16:33:00 <noplans> あ、nrhd > 後半動画
+16:33:02 <coji> 連休中に編集してうｐします＞＜
+16:33:08 <snoozer05> ありがとうございます ><
+16:33:11 <snoozer05> 楽しみにしています！
+16:33:23 <coji> seaside のセッションだった < 後半
+16:33:55 <maraigue> 構文木 こうぶんぼく の検索結果 約 158 件 http://www.google.co.jp/search?q=%E6%A7%8B%E6%96%87%E6%9C%A8+%E3%81%93%E3%81%86%E3%81%B6%E3%82%93%E3%81%BC%E3%81%8F&ie=utf-8&oe=utf-8&aq=t&rls=com.ubuntu:ja:official&client=firefox-a
+16:34:23 <maraigue> orz
+16:34:43 <snoozer05> いつの間にかSmalltalkのセッションになってたw
+16:34:45 <kunit-7435> すっかりSmalltalk講座
+16:34:48 <mrkn> あれ
+16:34:54 <tmaeda> www
+16:34:56 <mrkn> そういえば smalltalk の話になってるwww
+16:35:00 <maraigue> Smalltalkのパーサとかコンパイラがすごい
+16:35:16 <noplans> S
+16:35:19 <noplans> > mrkn
+16:35:19 <mrkn> Squeak のコンパイラや VM のコードは読めますよ
+16:35:25 <mrkn> あ
+16:35:32 <mrkn> ごめんなさいごめんなさいごめんなさいごめんなさい
+16:35:41 <kunit-7435> Ruby札幌の懐の深さに脱帽
+16:35:49 <snoozer05> あとで直接謝るようにw >mrkn
+16:36:20 <ReiOdaira> Smalltalkerは数は少ないが各企業の開発部隊のコアなところにいたりするからなぁ
+16:36:24 <kakutani> Smalltalk自重www
+16:36:42 <mrkn> http://ftp.squeak.org/3.9/SqueakV39.sources.gz
+16:36:49 <mrkn> Squeak のソース
+16:37:44 <snoozer05> 面白いなー
+16:37:45 <noplans> へえええ
+16:37:58 <ReiOdaira> 面白いな
+16:38:01 <tmaeda> これはすごいなぁ。CompiledMethod
+16:38:12 <snoozer05> 「これを評価するとどうなるか」かっこ良すw
+16:38:28 <mrkn> だれか Keynote に頼む
+16:38:39 <noplans> Keynoteに実装!
+16:38:57 <nakayoshi> それはないしょ、ＪＫ
+16:38:58 <mrkn> 予め実行しておいてビルドを仕込めば良いことに気付いた
+16:39:01 <noplans> @mrkn さんにタスク割り当てておきます
+16:39:14 <mrkn> え
+16:39:21 <snoozer05> ですね。それで良いかと。＞タスク
+16:39:25 <tmaeda> うへぇ「実行中のメソッドを返してくれます」
+16:39:39 <noplans> いいなあ
+16:40:04 <nakayoshi> 「私はホビープログラマなので…」ｗ
+16:40:24 <snoozer05> 角谷さんの日記w
+16:40:34 <nununu> suckは言っても大丈夫よん。
+16:40:55 <mrkn> 急に哲学的にｗ
+16:41:05 <noplans> お、そうなんですか! > nununuさん
+16:41:07 <noplans> どもですー
+16:41:21 <nakayoshi> さすが、アメリカ人。
+16:41:23 <nununu> 僕は人前でもよく言います。
+16:41:30 <nununu> どうもですー
+16:41:43 <nakayoshi> ｗ
+16:41:59 <kakutani> ん? なんだ。お母ん対応してて聞き逃したw
+16:42:07 <snoozer05> succの話ですw
+16:42:09 <kakutani> 今回の録画はニコ動にも上がるんですよね
+16:42:11 <kakutani> ああw
+16:42:18 <snoozer05> sumimさんが日記にコメントしてたw
+16:42:23 <darashi> やんわりタスクが投げられた気がするw＞ニコ動
+16:42:27 <snoozer05> www
+16:42:31 <mrkn> ｗｗｗ
+16:42:38 <snoozer05> ニコ動でみんなでSmalltalkをカウント！
+16:42:46 <mrkn> ニコスクリプト
+16:42:49 <noplans> ニコスクリプト
+16:42:52 <kakutani> それだw
+16:43:04 <ReiOdaira> たしかにa.succ!はわかるが4.succ!は意味わからんなｗ
+16:43:10 <mae> コメントが目に浮かぶｗ
+16:43:21 <mrkn> 「こういうことが Smalltalk ではできる」って言うんじゃないかと dkdk した
+16:43:36 <kakutani> 「++を使うRubyistの気がしれない」by takahashim
+16:43:49 <noplans> twitterでしたっけ
+16:43:51 <snoozer05> ですね
+16:43:56 <snoozer05> JPUGの時だったかな
+16:44:14 <kakutani> で、 += 1 じゃなくて、#succ 使ったらツッコミがwww
+16:44:18 <snoozer05> www
+16:44:21 <kakutani> どうしろとw
+16:44:27 <coji> succ だと増えないｗ
+16:44:39 <mrkn> Ｗｗｗ
+16:45:32 <snoozer05> TODO:あとで録画をしっかり見る
+16:45:44 <tmaeda> コンテキスト自身もスタックされる
+16:45:47 <maraigue> コンテキスト自身もスタックされる
+16:45:55 <maraigue> 重複orz
+16:46:00 <ReiOdaira> つーかスタックがコンテキストそのものではないのか？
+16:47:19 <tmaeda> 実行中のバイトコードの位置は#ipで取り出せる
+16:47:58 <siena> ip = instruction pointer でいいのかな?
+16:48:01 <t_wada> ip って何かの略ですか?
+16:48:02 <nakayoshi> 「コンテキストの、一つ前のコンテキストにアクセスする必要がある。」
+16:48:09 <t_wada> かぶったorz
+16:49:12 <siena> きづいたら、いつのまにか「エスユーユーシー」に
+16:49:24 <noplans> SUUC
+16:49:31 <siena> がふ orz
+16:49:35 <tmaeda> ふむふむ。2つ戻らないといけない。
+16:49:57 <darashi> 逆アセンブルしながらパッチ書いてるみたい
+16:50:07 <snoozer05> すごい世界だ
+16:50:29 <darashi> これがRubyの世界で起こってるのがすごいなぁ
+16:50:31 <nakayoshi> まさしく、生体解剖の世界。
+16:50:38 <maraigue> バイトコードレベルでプログラムをいじくることでObject#succ!を実装
+16:50:54 <mae> w
+16:50:56 <noplans> 「これを実行しますと」ってのがかっこいいなあ
+16:51:05 <t_wada> これはすごい
+16:51:09 <mae> 面白いなぁ
+16:51:14 <tmaeda> ほえぇえ
+16:51:26 <kunit-7435> どう考えてもこのプレゼン環境自体が最強。
+16:51:48 <kakutani> Rabbitでこれできないかな
+16:51:50 <maraigue> succ!くらいであれば、本来ならここまでしなくても書けてもいい、と思うのは私だけ？
+16:52:38 <ustreamer-59846> caller_bindingがほしい
+16:52:46 <darashi> 「奥歯ガタガタ言わせてやる」
+16:52:58 <snoozer05> ktkr
+16:53:00 <kakutani> ハナで笑われたwwww
+16:53:02 <nakayoshi> Disってるぞ！ｗ
+16:53:10 <mrkn> 数値には状態がないから難しくなる > succ!
+16:53:11 <snoozer05> 涙目www
+16:53:24 <kakutani> 「という人」って、それMatz wwww
+16:53:24 <mae> Acceptable Ruby
+16:53:29 <ReiOdaira> リフレクションは言語屋の見果てぬ夢だな‥‥
+16:53:32 <nakayoshi> An Acceptable Smalltalk
+16:53:33 <maraigue> なるほど、理解しました。 > mrkn
+16:53:33 <snoozer05> Acceptable Smalltalk
+16:53:36 <kakutani> An Acceptable Ruby wwwwwww
+16:53:49 <snoozer05> 身体の内側w
+16:53:50 <noplans> なんか健康食品とか
+16:53:53 <noplans> 温泉みたいな
+16:53:53 <nakayoshi> Barely Acceptable Ruby ;-b
+16:53:58 <noplans> お品書きだなwww
+16:53:59 <mae> かろうじてｗ
+16:54:19 <snoozer05> よかったw かろうじたw
+16:54:19 <kunit-7435> 今週山本さんのLisp講座を聞いたので、これとあわせていい勉強になった。RubyはLispでもありSmalltalkでもあるなぁと。
+16:54:29 <kakutani> RubyはRubyだよ
+16:54:39 <maraigue> wwww > kakutani
+16:54:50 <mae> Rubiniusは、ですね
+16:54:59 <nakayoshi> http://rubini.us/
+16:55:07 <kakutani> "かなりSmalltalkの話をありがとうございました(w"
+16:55:13 <mae> 言ったねｗ
+16:55:17 <mrkn> 恐れｗｗｗ
+16:55:35 <nakayoshi> 実行時コンテキストをオブジェクトとして自由に扱えるとこうなるんですね
+16:55:39 <mae> ip = instruction point
+16:55:43 <t_wada> ありがとうございます! >  instruction point
+16:55:49 <siena> point?
+16:55:53 <mrkn> SP = stack pointer
+16:55:55 <ReiOdaira> ふつうのCPUでは instruction pointer だよな。Rubyではしらんが。
+16:55:55 <mae> pointer?
+16:55:55 <mrkn> だから
+16:56:02 <mrkn> IP = Instruction pointer
+16:56:03 <mrkn> だと思いますね
+16:56:04 <t_wada> pointerですか
+16:56:11 <siena> たぶん
+16:56:16 <mae> nrhd
+16:56:26 <kakutani> 生物学からなの?!
+16:56:51 <mae> http://hack.ninja-web.net/academy001-018.htm
+16:56:58 <mae> ぐぐったらこんなのでました
+16:57:04 <ReiOdaira> コアはなんでまだCで書いてあるんだっけ‥‥
+16:57:42 <kakutani> 宣伝乙
+16:57:51 <nakayoshi> プレゼン環境自体が、Smalltalkデス！ｗ
+16:57:51 <nununu> ゴールデンウィーク、超うらやましーーー
+16:58:00 <nakayoshi> 拍手～！
+16:58:02 <kunit-7435> ぱちぱち
+16:58:07 <mrkn> 888888
+16:58:07 <noplans> 88888
+16:58:07 <tokibito-1828> 自前のプレゼンツールが基本
+16:58:07 <t_wada> ぱちぱち
+16:58:07 <ringtaro> ぱちぱち
+16:58:07 <mae> Smalltalk８８８８８８
+16:58:07 <kakutani> いや、Evanの話はマジメなのかなあwww
+16:58:09 <tmaeda> 面白かった！
+16:58:10 <kakutani> 8888888
+16:58:12 <siena> ぱちぱちぱち
+16:58:18 <ReiOdaira> 面白かったぁ
+16:58:18 <nakayoshi> 一旦休憩です。
+16:58:20 <kakutani> おもしろかった!
+16:58:22 <noplans> ほほうwww > 16:58 kakutani: いや、Evanの話はマジメなのかなあwww
+16:58:31 <mae> 乙ですー
+16:58:48 <t_wada> dnbk系? > Evan の話
+16:59:15 <kunit-7435> 結局Pythonが悪者になっただけだった。
+16:59:24 <kakutani> RubyConfの動画 -> http://rubyconf2007.confreaks.com/d2t1p3_rubinius.html
+16:59:37 <kakutani> おもしろかったよ
+16:59:45 <kakutani> Shibuya.*っぽい
+16:59:53 <noplans> thx > kakutaniさん
+16:59:57 <ringtaro> 怖すぎ　coreすぎ　どっちだ？
+17:00:09 <kakutani> "coreすぎ"
+17:00:23 <kakutani> 牛core
+17:00:29 <t_wada> なるほどw > Shibuya.*
+17:00:33 <ringtaro> THX
+17:00:49 <ReiOdaira> テープで固定されとるｗ
+17:01:00 <kakutani> Evanのプレゼンは印象的だったので、見るといいと思うよ
+17:01:41 <mrkn> GCC ktkr
+17:01:48 <noplans> GCC!
+17:01:55 <kunit-7435> どこまでRubyからずれていくんだ。
+17:02:04 <kakutani> Ruby関係NEEEE
+17:02:14 <noplans> いや、さいごは島田さんなので
+17:02:18 <noplans> 大丈夫だと信じたい
+17:03:31 <kakutani> 左と右でViewersの数が違うんだね
+17:04:09 <kakutani> 今日も会場にIRCうつってるの?
+17:04:20 <darashi> 今日は会場にはうつってません
+17:04:22 <noplans> 今日はIRC移ってません
+17:04:23 <mrkn> 今日は IRC 映ってないです
+17:04:27 <noplans> かぶりすぎ
+17:04:31 <darashi> w
+17:04:37 <darashi> PC持っている人だけです
+17:04:54 <noplans> プロジェクタが一つしかないのです><
+17:05:19 <kakutani> RubyKaigiも今年は無理かなあ、と思っていたら、こないだ下見に行ったら2つスクリーンが上から降りてきたw
+17:05:26 <ReiOdaira> gcc wktk
+17:05:38 <mrkn> スクリーンが天から降ってきた！
+17:05:42 <kakutani> GCC Hacksは今日聞けるの?
+17:05:50 <darashi> 今日は予告編ですw
+17:05:52 <noplans> 6/28よていですね
+17:05:55 <noplans> OSCで
+17:06:00 <noplans> 話すのかな?
+17:06:07 <mrkn> 6/28 に札幌に来たら聞けます！
+17:06:12 <kakutani> wwwwwww
+17:06:16 <nakayoshi> 私もやります。
+17:06:22 <nakayoshi> ENTERPRISE HACKS II
+17:07:45 <maraigue> OSCでの内容 by alohakun
+17:08:07 <ReiOdaira> gccの中間言語がlisp-likeだからか？
+17:08:16 <mrkn> RTL ですね
+17:08:19 <maraigue> 機械語は男の浪漫
+17:08:20 <mrkn> Register Transfer Language
+17:08:28 <tokibito-1828> 残念ながらOSCの日はPython温泉
+17:08:40 <ringtaro> 微妙か・・・orz
+17:09:09 <maraigue> R. Stallman
+17:09:29 <nakayoshi> GNU真理教。ｗ
+17:09:36 <noplans> rms
+17:10:44 <ReiOdaira> 漢ならmachine descriptionを書くべし
+17:10:45 <maraigue> GCCのフロントエンドがあれば、言語やOSやCPUによらずコンパイルができる
+17:10:50 <darashi> 「この春はGCCでモテる」
+17:10:50 <kakutani> 聖イグヌチウス
+17:10:51 <kakutani> http://ja.wikipedia.org/wiki/%E8%81%96%E3%82%A4%E3%82%B0%E3%83%8C%E3%83%81%E3%82%A6%E3%82%B9
+17:10:58 <tmaeda> 小悪魔フロントエンド！
+17:10:59 <darashi> 「小悪魔フロントエンド」
+17:11:07 <noplans> http://twitter.com/alohakun/statuses/797311902
+17:11:11 <tokibito-1828> 俺俺言語コンパイラが書けるのか
+17:11:29 <nakayoshi> 以前は、フロントエンドがでかかった。これが問題。
+17:11:40 <ReiOdaira> へえぇ
+17:11:49 <kunit-7435> ほー。
+17:11:52 <mae> へーー
+17:11:58 <kakutani> ほー
+17:12:06 <noplans> 「チャンス!!」www
+17:12:10 <hides> かっこいいw
+17:12:11 <nakayoshi> GCC 4.0以降は、汎用構文木を作ってしまえば、あとはミドルエンドにおまかせ～
+17:12:25 <maraigue> 「ソースがドキュメント」
+17:12:27 <kakutani> APIドキュメントもないのか
+17:12:39 <tmaeda> 今書かずにいつ書くのか！？ 
+17:12:46 <ReiOdaira> これは使えそうだな、すごい
+17:12:57 <kakutani> alohakunの話は録画してニコ動にupされるの?
+17:13:00 <t_wada> なるほどー
+17:13:08 <noplans> したいんだけどなあ
+17:13:13 <noplans> > 録画
+17:13:14 <ReiOdaira> 素晴らしい予告編！
+17:13:20 <tmaeda> いやー、録画は難しいかもですねぇ
+17:13:21 <mae> 北海道ー
+17:13:25 <kakutani> 88888888
+17:13:27 <kunit-7435> では実行してみましょう
+17:13:30 <mae> 88888888888888
+17:13:37 <ringtaro> 888
+17:13:41 <kakutani> DSL! DSL!
+17:13:41 <nakayoshi> GCCのフロントエンドの作り方が聞けるのは OSC 2008 Hokkaido だけ！
+17:13:45 <t_wada> 888
+17:13:48 <noplans> タイトルgooooood
+17:13:49 <kakutani> 切れてる
+17:13:54 <darashi> http://sangyo.center.sec.or.jp/ OSC会場
+17:13:55 <kunit-7435> また、リセットがいるのでは？
+17:13:57 <kakutani> Don't Panic
+17:14:05 <noplans> Don't Panic!
+17:14:10 <kakutani> 予言できたw
+17:14:17 <kakutani> しまださん東京くるのか
+17:14:17 <noplans> 銀河ヒッチハイクガイド重要。
+17:14:20 <mae> 作戦立案。
+17:14:27 <ReiOdaira> ふむふむ。
+17:14:43 <nakayoshi> DISる とは違うんですね。
+17:14:56 <noplans> DSL -> DiSLu
+17:14:59 <noplans> なるほど
+17:15:02 <nununu> ルー語変換前にしてください。
+17:15:02 <maraigue> wktk!! > DSL
+17:15:14 <kakutani> Languageではない、という意見もある
+17:15:22 <mrkn> MuRaKeN が mrkn になるようなもんですね > DiSuL -> DSL
+17:15:33 <tmaeda> kwsk＞kakutani
+17:15:47 <kakutani> Ruby使ってるなら言語としては同じじゃん、というw
+17:15:55 <kakutani> Dialectじゃね? という話。
+17:15:55 <tmaeda> ほぅほぅ
+17:15:56 <kunit-7435> なんか最初と違って、左がおくれるようになったなぁ。
+17:16:06 <kakutani> 青森弁と関西弁みたいな。
+17:16:07 <noplans> umumu > ヒ・ダリ
+17:16:12 <mrkn> それを言ってしまうとすべてがチューリング機械にｗｗｗ
+17:16:23 <maraigue> wwww > Turing Machine
+17:16:47 <kakutani> まあ、LanguageよりもDomain Specificのほうが重要だからねえ
+17:17:44 <kakutani> noplans
+17:17:51 <noplans> thx > snoozer05
+17:18:06 <kakutani> なんだろう
+17:18:06 <maraigue> どうしたらいいのか全くわからないwww
+17:18:12 <mrkn> あれ1枚を入れるための話の流れを考えますよねｗ
+17:18:13 <kakutani> おー。pragmatic
+17:18:40 <noplans> 毎回入れていただけてるのでありがたいでうs
+17:19:15 <maraigue> アンケートを英語で言うとquestionnaire
+17:19:24 <kakutani> くえすちょなりー?
+17:19:31 <mrkn> say questionnaire
+17:19:40 <mrkn> クエスチョネイアー
+17:19:45 <t_wada> mrkn++
+17:19:48 <ReiOdaira> ｗｗｗ
+17:19:51 <maraigue> mrkn++
+17:19:58 <kakutani> mrkn++
+17:20:36 <kunit-7435> 教訓：読めるクラス名をつける
+17:20:40 <kakutani> くえすちょねいあー
+17:21:04 <noplans> Qクラスでいいよ
+17:21:12 <noplans> 探偵とか出来そうだ
+17:21:22 <mrkn> ですかね
+17:21:23 <mrkn> say したのは noplans さんですよｗ
+17:21:24 <mrkn> say が読めるクラス名をつける
+17:22:02 <darashi> 「開かさる」は北海道弁ですよねw
+17:22:18 <noplans> 平賀猿
+17:22:25 <noplans> という変換になるね
+17:22:33 <noplans> 赤猿
+17:23:23 <noplans> ちょっと早い?
+17:23:23 <maraigue> 作戦1
+17:24:00 <maraigue> RSpecみたいな書き方に見える
+17:24:11 <kakutani> RSpecはtesting DSL
+17:24:26 <maraigue> でいいんですよね。>kakutani
+17:25:09 <maraigue> 私がDSLが面白いと思ったのは、RSpecの影響が大
+17:25:19 <maraigue> たぶん
+17:25:29 <kakutani> Rake,Rails,RSpec。三大Ruby DSL
+17:26:12 <noplans> この流れかなり好き
+17:26:20 <kakutani> いいですね
+17:26:30 <ustreamer-12375> RSpec は xxx.should be_empty みたいなのがアイマイで嫌という意見もありますね
+17:26:31 <maraigue> 次：大きい規模のDSLを作るには?
+17:27:20 <maraigue> 名前付き引数(実質Hash)
+17:27:35 <kakutani> assert(xxx.empty?) よりも脳内での変換パスが1つ増えるからかな。その意見はわかる
+17:28:05 <kakutani> でも、ぼくにしてみるとassert(xxx.empty?)はxxx.should be_empty よりも読むときにスタックが1つ多い
+17:28:41 <kakutani> でもまあ、実際そんなに書かないよね。大部分は should(_not) == でだいたいいける
+17:29:30 <walf443> assertだと改行をいれるとみやすくしやすいのだけど、xxx.should be_emptyは途中で改行入れるとださいので入れにくいところが少し嫌だったり
+17:29:32 <darashi> |q| 要らない予感
+17:29:41 <maraigue> おw
+17:30:07 <hirakuro> 確かにRSpecを書いてると1行が長くなりますね
+17:30:10 <ustreamer-12375> Rspec だと should の用途が少くとも 3 種類あるのです。
+17:30:38 <maraigue> 作戦2 オブジェクトを使う
+17:30:52 <ustreamer-12375> 無駄に英語に近づけようとして、意味するところがアイマイになるのが DSL の間違った使い方という意見。
+17:31:14 <ustreamer-12375> http://pragdave.blogs.pragprog.com/pragdave/2008/03/the-language-in.html
+17:31:17 <kakutani> 島田さんはdefにカッコつかわない派なのか
+17:31:56 <tokibito-1828> defにカッコ付けなくてもいいのか。知らなかった
+17:32:22 <walf443> defに()をつけない派の俺が通りますよ
+17:32:40 <kakutani> pragdaveのtesting DSLの実験ライブラリおもしろかったな。斜めなんだっけw
+17:32:44 <kakutani> 名前なんだっけw
+17:33:18 <mrkn> 電車の時間が迫っているので，後ろアングル (mrkn-live) を止めます．申し分けありません．
+17:33:21 <maraigue> method_missingに丸投げして処理する方法
+17:33:24 <kakutani> 次のエントリだ。http://pragdave.blogs.pragprog.com/pragdave/2008/03/playing-with-a.html
+17:33:30 <noplans> おつです > mrknさん
+17:33:37 <mrkn> いえいえ
+17:33:45 <mrkn> 片付け手伝えず申し分けらりません
+17:33:51 <noplans> かんだ
+17:34:03 <mrkn> うへｗ
+17:34:29 <maraigue> おつかれさまです > mrkn
+17:35:10 <mrkn> どうもです
+17:36:10 <t_wada> intention revealing
+17:36:39 <kakutani> DSLの構築はTDDと相性がよいんじゃないかと思う
+17:36:51 <kakutani> 意図から内部表現をつくっていけそう
+17:36:56 <kakutani> というかつくるんだけど
+17:36:59 <t_wada> いいとおもう > TDDとの相性
+17:37:27 <t_wada> というか、なるほど、なるほど。そうか。
+17:37:32 <kakutani> TWアンソロジ買ってないな。オススメ?
+17:37:53 <maraigue> snoozer05++
+17:37:56 <t_wada> すごくわかりやすいプレゼンでした!
+17:38:22 <siena> しまった、割込み入って途中見落とした
+17:39:09 <kakutani> TDDライブコーディンの題材にできそうな気がした。> 簡単なinternal DSL
+17:39:11 <darashi> わたし、実際にmigrationとviewをDSLから生成するRailsのアンケートアプリを作ってました。
+17:39:30 <kakutani> DSLでコードを使うのはプログラマ
+17:39:41 <kakutani> 業務が分かるひととペアワークするといいんじゃない?
+17:40:36 <darashi> (ドメイン専門家が実際に書けなくても)見ただけで雰囲気がわかるっていうのは重要
+17:40:37 <mae> アナリシスパターンにあった気がす。
+17:40:46 <kakutani> いや。わかんなくてもいいですよ!
+17:41:09 <kakutani> 仕様がわかる人と、プログラマとの会話が成立することが大事なんです!
+17:41:14 <siena> 構文に則った記述ができる火となら誰でも
+17:41:14 <kunit-7435> デザイナーにテンプレートエンジンの文法を覚えろみたいなものかと。
+17:41:24 <siena> s/火と/人/
+17:41:42 <ringtaro> これをまねてね　くらいなら問題ないと思うけど
+17:41:55 <t_wada> 語彙の共有ができることが重要
+17:42:14 <kakutani> 書き方(Language)じゃなくて、Domain Specificのほうですよ!
+17:42:19 <kakutani> だいじなことは!
+17:42:22 <siena> 基本的に DSL は小さな構文なので、初めての人でも学習コストは Ruby そのものより遥かに小さい
+17:42:41 <kakutani> 実際に仕事でやるときは、もうちょっと文法の話もするよ!
+17:42:51 <kakutani> 説明するときに。
+17:43:01 <t_wada> 外部 DSL としての Excel の登場!?
+17:43:17 <noplans> Excel最高
+17:43:18 <siena> ぎゃー、Excel
+17:43:19 <kakutani> たぶん最強の外部DSL > Excel
+17:44:15 <kakutani> しまださんありがとうw
+17:44:22 <t_wada> ww
+17:44:28 <kakutani> Excel と Rubyの間に落としどころがある
+17:44:30 <siena> もちろん、Ruby的な書き方よりも、分かりやすくDSLの設計をすることが必要
+17:44:32 <kakutani> のがDSL
+17:45:06 <t_wada> method_missing最高!!
+17:45:13 <kunit-7435> method_missing って抵抗あるんだ。
+17:45:20 <walf443> method_missingは最終兵器だと思う。ついやってしまうのだけど
+17:45:38 <siena> つかいすぎると何起きてるか分からなくなったり、思わぬ副作用があったり < method_missing
+17:45:40 <hirakuro> 添削本でも指摘されてましたね
+17:45:57 <kakutani> method_missingありきは危険だよー
+17:46:15 <siena> 大体手段がないときにすべき
+17:46:22 <siena> s/大体/代替/
+17:46:24 <hirakuro> 変わりにdefine_methodを使いましょうと書かれてた記憶があります > 添削本
+17:47:16 <t_wada> おお、現実派の方が多い
+17:47:42 <kunit-7435> バランスの問題ですよね。
+17:47:43 <kakutani> define_methodいい
+17:48:03 <kakutani> wwww
+17:48:05 <kakutani> ありがとうw
+17:48:15 <hirakuro> ただ、define_methodで定義するメソッドには、ブロックを渡せないんですよね
+17:48:27 <kakutani> それ1.9でできるよ > hirakuro
+17:48:28 <walf443> 会場にいなくても盛んに連呼されるid:kakutani
+17:48:30 <kakutani> そっかー
+17:48:49 <kakutani> 1.8.7 ではどうなってるんだろ > define_methodにブロック
+17:48:54 <hirakuro> それを聞いて歓喜してました > 1.9でOK
+17:49:04 <kakutani> と、gotoyuzoさんが言ってた
+17:49:13 <hirakuro> 1.8.7で使えるようになったら嬉しいですねぇ
+17:49:26 <darashi> できれば次回は(少なくとも発表者側で)IRC見えるようにしたいなぁ。
+17:50:11 <kakutani> たとえば、超短納期で、
+17:50:29 <kakutani> ユーザが設定したものに応じて実行できる仕組みをつくらないといけない場合があったりすると、
+17:50:44 <siena> 関係ないのでは
+17:50:51 <kakutani> 設定に応じたRubyスクリプトをERBで生成してevalするとか便利だよ
+17:51:01 <kakutani> 外部DSLエンジン構築とか工数かかるよ
+17:51:26 <hirakuro> evalでメソッド定義するときに遅いのは何となくわかるんですが
+17:51:38 <hirakuro> evalで定義したメソッドを使うときも遅いんでしたっけ？
+17:52:34 <t_wada> DSL 懐疑派は設定用途やテスト用途などからという感じですかね
+17:52:49 <kunit-7435> Rubyの勉強会なのにRubyの人がアウェイなのはなぜなんだろう。
+17:52:54 <siena> define_method にブロック、ってのは 1.8.7p2 の ChangeLog に見当たらない < http://svn.ruby-lang.org/repos/ruby/tags/v1_8_7_preview2/ChangeLog
+17:52:59 <t_wada> 懐疑派というか、速度面かな
+17:53:17 <kakutani> RubyがアウェイなRuby札幌
+17:53:21 <noplans> www
+17:53:42 <tmaeda> いい勉強会だw
+17:53:51 <kakutani> 叩かれて強くなれ!
+17:54:05 <kakutani> よろしく > RubyKaigi
+17:54:11 <kakutani> 前の週wwwww
+17:54:33 <nakayoshi> 6/28 => OSC 2008 Hokkaido
+17:55:08 <darashi> 録画停止と配信停止間違えました、すません
+17:55:11 <darashi> 再開しました
+17:55:13 <tmaeda> というか、OSCとぶつかる予定だったんですが、Ruby札幌が参加できなくなるってことで、OSCが延期しました
+17:55:21 <kakutani> ↑wwwww
+17:55:27 <kakutani> なんという存在感
+17:55:30 <nakayoshi> そうだったのか？
+17:55:32 <siena> DSL で書かれても、ruby が解釈してオブジェクトになったら、Ruby で書かれたオブジェクトと比べて遅い理由があまり思いつかない……
+17:55:35 <nakayoshi> 初めて知りました。ｗ
+17:55:50 <t_wada> ひどいww
+17:55:58 <hirakuro> カメラの外でOSCのポスターが
+17:56:04 <kakutani> みえないwwww
+17:56:10 <tokibito-1828> みんなが立ち上がりポスターを見に行く
+17:56:18 <nununu> む、6月末一時帰国＆OSC参加できるかもー
+17:56:24 <kunit-7435> すごい釣りだ。
+17:57:03 <kakutani> Daveメソッド
+17:57:06 <m_takagi> 立ち上がってディスプレイの裏側に行ってみたけれど見えなかった > ポスター
+17:57:18 <noplans> www > m_takagiさん
+17:57:27 <kakutani> m_takagi: wwwww
+17:57:31 <noplans> 私もモニタから彼女がなかなか出てこないので
+17:58:07 <kakutani> 最初に全員自己紹介はおもしろいね(ほとんど聞けなかったけど)
+17:58:09 <nakayoshi> ぬさん、札幌来るんだ？
+17:58:11 <kakutani> お母ん対応
+17:58:18 <kunit-7435> 凄くいい勉強会でした。
+17:58:19 <kakutani> こちらこそたのしかった
+17:58:21 <t_wada> OSC 行きたいなぁ
+17:58:26 <kakutani> GCC Hacks
+17:58:28 <nakayoshi> スープカレー
+17:58:29 <nununu> まだ決定ではないです＞なかよしさん
+17:58:45 <kakutani> アップルストアはモテる
+17:58:49 <kunit-7435> いつRubyo
+17:58:57 <mae> ありがとうございました！
+17:58:58 <kakutani> 8888888888888888
+17:58:59 <nununu> ぱちぱち
+17:59:00 <t_wada> 888888
+17:59:00 <siena> ぱちぱちぱちぱち
+17:59:01 <noplans> 888
+17:59:03 <mae> 88888888888
+17:59:05 <nakayoshi> 来れるといいですね > nununu さん
+17:59:08 <ringtaro> 888
+17:59:10 <kunit-7435> いつRubyの話をしてるんだ？Ruby札幌は。
+17:59:12 <nununu> ですねー
+17:59:13 <kakutani> おかしたべたい
+17:59:16 <walf443> 888
+17:59:18 <tmaeda> かい☆さん
+17:59:19 <m_takagi> お菓子ほしい
+17:59:21 <darashi> 残っているお菓子を処理するの儀
+17:59:26 <kakutani> Ruby札幌 Rubyの話しろ
+17:59:27 <siena> おやつ中
+17:59:29 <snoozer05> ご参加いただいた皆様ありがとうございました！
+17:59:31 <noplans> お菓子はルタオとロッカテイ
+17:59:32 <snoozer05> ><
+17:59:38 <walf443> 懇親会じゃないですかね > kunit-7435
+17:59:39 <snoozer05> 勉強になりました
+17:59:45 <mae> 豪華だ！＞おかし
+17:59:50 <t_wada> 素晴らしいプレゼンでした
+18:00:04 <snoozer05> もっと勉強します！
+18:00:09 <mae> お疲れ様でしたー
+18:00:10 <darashi> 右から音出してみました
+18:00:13 <nakayoshi> 今日の勉強会は、非常にクォリティ高い。
+18:00:17 <kakutani> ろっかてい、いいな
+18:00:18 <darashi> ゆるりと撤収します
+18:00:18 <siena> おつかれでした、たのしかったー
+18:00:20 <kunit-7435> そこかー。懇親会に一回いかないと。
+18:00:23 <kakutani> Ruby札幌++
+18:00:28 <nakayoshi> さようなら～
+18:00:44 <kakutani> 結局、原稿書きが全然すすまなかったwwwww
+18:00:46 <noplans> みなさん、おつですー
+18:00:52 <nakayoshi> 乙カレー
+18:00:54 <hirakuro> お疲れ様でした
+18:00:59 <kakutani> その価値はあったなー。おつー
+18:01:09 <mae> 次はオフライン参加したいですー
+18:01:11 <walf443> ++と使うRubyエバンジェリストの気が知れない
+18:01:12 <ringtaro> いい土曜の午後をありがとうございました
+18:01:16 <kunit-7435> 天井がぐるぐる。
+18:01:20 <mae> みてまーすｗ
+18:01:31 <nununu> 広いですね。
+18:01:31 <kunit-7435> ひろい。
+18:01:36 <t_wada> 結構部屋広いんですね
+18:01:36 <mae> 結構広いですね
+18:01:45 <siena> こういう機材で
+18:02:05 <m_takagi> 広い
+18:02:12 <kunit-7435> 1/4くらいしか使ってないのでは？
+18:02:12 <siena> 広くていいなー
+18:02:15 <mae> 目ーがまーわるー
+18:02:33 <kakutani> クローバーフィールド
+18:02:43 <kunit-7435> そこでようやくRubyの話がはじまる。
+18:02:45 <t_wada> www
+18:02:50 <mae> ww
+18:02:55 <nakayoshi> でわ
+18:02:57 <nakayoshi> ノシ
+18:03:01 <mae> ﾉｼ
+18:03:20 <noplans> ノシ
+18:03:28 <mae> ルタオといえばドゥーブルフロマージュ
+18:03:45 <mae> それでは落ちますーありがとうございましたー
+18:03:48 <mae> ﾉｼ
+18:04:04 <kakutani> じゃねー
+18:06:02 <walf443> おつかれさまです。
+18:06:53 <t_wada> Ruby 札幌素晴らしかったです。勉強になりました。では。
+18:10:31 <darashi> 右画面切りますー
+18:10:35 <darashi> ありがとうございました！
+18:10:43 <kunit-7435> ありがとうございました！おつかれさまでした！
+18:10:47 <siena> どもでしたー ^^)/
+18:11:57 <mrkn> あれ
+18:12:05 <mrkn> 終ったのか

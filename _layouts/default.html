@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml-stylesheet href="/styles/screen.css" type="text/css"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja">
+  <head>
+    <title>Ruby札幌{% if page.title %} | {{ page.title }}{% endif %}</title>
+    <meta name="description" content="札幌にて Ruby に関する活動を行っているコミュニティです。Ruby勉強会＠札幌 や 開発集会@札幌、Ruby Sapporo Night などのイベントを定期的に開催しています。" />
+    <meta name="keywords" content="Ruby 札幌 Rails 勉強会 Ruby Sapporo Night ユーザ会 コミュニティ 開発集会" />
+    <link href="/rss/" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link rel="stylesheet" type="text/css" href="/styles/screen.css" />
+  </head>
+  <body>
+    <div id="page">
+      <div id="header">
+      {% include header.html %}
+      <div id="main">
+        <div id="content-wrapper">
+          <div id="content">
+            <h1>{{ page.title }}</h1>
+            {{ content }}
+          </div><!-- #content -->
+        </div><!-- #content-wrapper -->
+        <div id="sidebar-wrapper">
+          <div id="sidebar">
+            {% include sidebar.html %}
+          </div>
+        </div>
+      </div><!-- #main -->
+      {% include footer.html %}
+    </div><!-- #page -->
+    {% include analytics_tracker.html %}
+    <p id="now_streaming"><a href="/live">NOW STREAMING!!!!</a></p>
+  </body>
+</html>
+

@@ -1,0 +1,22 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Ruby札幌</title>
+    <link>{{ site.base_url }}{{ page.url }}</link>
+    <language>ja</language>
+    <ttl>40</ttl>
+    <description>Ruby札幌ニュースの更新情報</description>
+    {% for post in site.categories.news limit:10 %}
+        <item>
+          <title>{{ post.title }}</title>
+          <description>{{ post.content | xml_escape }}</description>
+          <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+          <guid>{{ site.base_url }}{{ post.url }}</guid>
+          <link>{{ site.base_url }}{{ post.url }}</link>
+        </item>
+    {% endfor %}
+  </channel>
+</rss>

@@ -1,0 +1,175 @@
+@charset "UTF-8";
+@import url(/styles/colorset.css);
+
+a {
+}
+a:visited {
+}
+a:hover, a:visited:hover {
+  text-decoration: none;
+}
+a[href$="/rss/"] {
+  background: transparent url(/images/Feeds_Blue_24x24.png) no-repeat center left;
+  font-size: 12px;
+  padding: 8px 0 0 30px;
+  height: 30px;
+  display: block;
+}
+pre {
+  max-height: 25em;
+  overflow: scroll;
+}
+li {
+  line-height: 1.7;
+}
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 80%;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  font-family: "Trebuchet MS", Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size: 250%;
+  font-weight: normal;
+}
+#sidebar h2 {
+  font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 180%;
+  font-weight: normal;
+  margin-top: 1.5em;
+  margin-bottom: .5em;
+}
+#sidebar ol {
+  padding-left: 2em;
+}
+.hidden {
+  display: none;
+}
+.clear {
+  clear: both;
+}
+#now_streaming a {
+  text-decoration: none;
+  text-align: right;
+  display: none; 
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 130px;
+  width: 230px;
+  background: transparent url(/images/Crystal_Clear_device_cam.png) no-repeat 100px 0;
+}
+#page {
+  margin-left: auto;
+  margin-right: auto;
+  width: 730px;
+  text-align: left;
+  position: relative;
+}
+#header {
+  border-bottom-width: 4px;
+  border-bottom-style: solid;
+  font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  padding: 0;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+#site-title {
+  font-size: 325%;
+}
+#site-title a, #site-title a:visited {
+  text-decoration: none;
+}
+#site-title a:hover, #site-title a:hover {
+  text-decoration: underline;
+}
+#site-subtitle {
+  font-style: italic;
+  letter-spacing: 2px;
+  text-transform: lowercase;
+}
+#main {
+  border-bottom-width: 4px;
+  border-bottom-style: solid;
+  float: left;
+  width: 100%;
+}
+#content-wrapper {
+  float: left;
+  width: 500px;
+}
+#content {
+  padding: 25px;
+  border-right-width: 1px;
+  border-right-style: dotted;
+}
+#content h1 {
+}
+#content h3 a {
+  border-bottom-width: 1px;
+  border-bottom-style: dotted;
+  display: block;
+  padding-bottom: 2px;
+  text-decoration: none;
+}
+#content p {
+  line-height: 1.6;
+}
+#content .info {
+  text-align: right;
+  font-family: "Lucida Grande", Futura, sans-serif;
+  margin-top: 1.5em;
+  border-right: 1em solid #C01848;
+  border-bottom: 1px solid #c01848;
+  padding-right: .5em;
+}
+#content .entry {
+}
+#content .entry .info {
+  margin-top: 1em;
+}
+#content .first.entry {
+  margin: -25px;
+  margin-bottom: 0;
+  padding: 0 25px 25px 25px;
+}
+#content .first.entry h1 {
+}
+#sidebar-wrapper {
+  float: right;
+  width: 225px;
+}
+#sidebar {
+  font-size: 90%;
+  padding: 0 0 15px 15px;
+}
+#sidebar h2 {
+  font-size: 160%;
+}
+#sidebar p {
+  line-height: 1.6;
+  margin-left: .3em;
+}
+#sidebar ul {
+  margin-left: 1.5em;
+  padding: 0;
+}
+#sidebar li {
+  margin-bottom: .25em;
+}
+#footer {
+  float: left;
+  font-size: 90%;
+}
+#footer p {
+  padding: 25px;
+  margin: auto;
+  width: 80%;
+  line-height: 1.6;
+}
+img {
+  border: 0;
+}
