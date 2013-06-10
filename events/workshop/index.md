@@ -28,3 +28,4 @@ title: Ruby勉強会@札幌
 * [Ruby勉強会@札幌-23](http://atnd.org/events/28863)
 * [Ruby勉強会@札幌-24](http://rubysapporo.doorkeeper.jp/events/3072)
 * [Ruby勉強会@札幌-25](http://rubysapporo.doorkeeper.jp/events/3401)
+* [Ruby勉強会@札幌-26](http://rubysapporo.doorkeeper.jp/events/4418)
