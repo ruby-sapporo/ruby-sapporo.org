@@ -16,4 +16,4 @@ title: RubySapporo.beam#3
 - 参加費: 無料
 - 参加方法: [Doorkeeper](https://rubysapporo.doorkeeper.jp/events/65693) より参加登録をお願いします。
 - 主催: [Ruby札幌](http://ruby-sapporo.org), [Sapporo.beam](http://sapporo-beam.github.io)
-- 協賛: [株式会社えにしテック](https://www.enishi-tech.com/)
+- 協賛: [株式会社えにしテック](https://www.enishi-tech.com/), [株式会社ファームノート](http://farmnote.jp/)
