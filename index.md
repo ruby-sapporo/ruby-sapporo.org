@@ -4,7 +4,7 @@ layout: default
 <h1>参加するには</h1>
 <div id="extended">
 <p>
-<a href='https://discord.gg/A32zCDjYeb'>Rubyの会のDiscordサーバー</a>に入り、ruby-sapporoチャンネルで適当に話しかけてください。
+<a href='https://discord.gg/9tuFNHkhh7'>Ruby札幌のDiscordサーバー</a>に入り、#loungeで適当に話しかけてください。
 </p>
 <p class="info"></p>
 </div>
