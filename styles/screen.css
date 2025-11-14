@@ -173,3 +173,52 @@ h1 {
 img {
   border: 0;
 }
+
+/* GitHub ribbon */
+.github-corner {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 0;
+  fill: #c01848;
+  color: #fff;
+}
+
+.github-corner svg {
+  display: block;
+}
+
+.github-corner .octo-arm {
+  transform-origin: 130px 106px;
+}
+
+.github-corner .octo-arm,
+.github-corner .octo-body {
+  fill: currentColor;
+}
+
+.github-corner:hover .octo-arm {
+  animation: octocat-wave 560ms ease-in-out;
+}
+
+@keyframes octocat-wave {
+  0%, 100% {
+    transform: rotate(0deg);
+  }
+  20%, 60% {
+    transform: rotate(-25deg);
+  }
+  40%, 80% {
+    transform: rotate(10deg);
+  }
+}
+
+@media (max-width: 500px) {
+  .github-corner:hover .octo-arm {
+    animation: none;
+  }
+
+  .github-corner .octo-arm {
+    animation: octocat-wave 560ms ease-in-out;
+  }
+}
