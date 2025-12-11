@@ -33,3 +33,4 @@ title: Ruby勉強会@札幌
 * [Ruby勉強会@札幌-28](http://rubysapporo.doorkeeper.jp/events/6714)
 * [Ruby勉強会@札幌-29](https://rubysapporo.esa.io/posts/6) (🔒 member only)
 * [Ruby勉強会@札幌-30](https://rubysapporo.esa.io/posts/19) (🔒 member only)
+* [Ruby勉強会@札幌-31](https://rubysapporo.esa.io/posts/30) (🔒 member only)
