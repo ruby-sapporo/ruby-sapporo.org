@@ -34,3 +34,4 @@ title: Ruby勉強会@札幌
 * [Ruby勉強会@札幌-29](https://rubysapporo.esa.io/posts/6) (🔒 member only)
 * [Ruby勉強会@札幌-30](https://rubysapporo.esa.io/posts/19) (🔒 member only)
 * [Ruby勉強会@札幌-31](https://rubysapporo.esa.io/posts/30) (🔒 member only)
+* [Ruby勉強会@札幌-32](https://rubysapporo.esa.io/posts/33) (🔒 member only)
