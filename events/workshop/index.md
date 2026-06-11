@@ -48,3 +48,4 @@ title: Ruby勉強会@札幌
 * [Ruby勉強会@札幌-43](https://rubysapporo.esa.io/posts/53) (🔒 member only)
 * [Ruby勉強会@札幌-44](https://rubysapporo.esa.io/posts/56) (🔒 member only)
 * [Ruby勉強会@札幌-45](https://rubysapporo.esa.io/posts/57) (🔒 member only)
+* [Ruby勉強会@札幌-46](https://rubysapporo.esa.io/posts/58) (🔒 member only)
